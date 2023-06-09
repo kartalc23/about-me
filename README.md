@@ -37,8 +37,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kartalc23/kartalc23/output/snake.svg" alt="Snake animation" />
-
-###
